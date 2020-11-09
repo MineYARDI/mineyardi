@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>BEN MİNE'NİN İLK HTML KODUYUM.</title>
+</head>
+<body>
+    <h1>bugün kodlama öğrenmeye çalışıyorum. </h1>
+    <p> bu da benim ilk paragrafım olacak. </p>
+</body>
+</html>
